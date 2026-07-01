@@ -13,8 +13,10 @@ int main(){
     }
 
     // remove newline from fgets
-    str[i-1]='\0';
-    i--;
+    if(str[i-1]=='\n'){
+        str[i-1]='\0';
+        i--;
+    }
 
     for(int j=0; j<i/2; j++){
         temp=str[j];
