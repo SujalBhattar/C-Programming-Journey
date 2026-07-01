@@ -1,28 +1,88 @@
-# 🚀 C Programming Journey
+# 💻 C Programming Journey
 
-Welcome to my C Programming Journey!
+Welcome to my **C Programming Journey**! 🚀
 
-This repository contains all the programs I wrote while learning C from scratch.
+This repository contains the programs I've written while learning the C programming language from scratch. The code is organized topic-wise, making it easy to track my progress and revisit concepts.
+
+---
 
 ## 📚 Topics Covered
 
-- Basics
-- Conditionals
-- Loops
-- Functions
-- Arrays
-- Strings *(Coming Soon)*
-- Pointers *(Coming Soon)*
-- Structures *(Coming Soon)*
-- File Handling *(Coming Soon)*
-- Mini Projects *(Coming Soon)*
+- ✅ Basics
+- ✅ Conditionals
+- ✅ Loops
+- ✅ Functions
+- ✅ Arrays
+- ✅ Strings
+- ⏳ Pointers
+- ⏳ Structures
+- ⏳ File Handling
+- 🚀 Mini Projects
 
-## 🛠️ Tools Used
+---
 
-- Language: C
-- Compiler: GCC
-- Editor: Visual Studio Code
+## 📂 Repository Structure
 
-## 🎯 Goal
+```text
+C-Programming-Journey/
+│
+├── 01_Basics/
+├── 02_Conditionals/
+├── 03_Loops/
+├── 04_Functions/
+├── 05_Arrays/
+├── 06_Strings/
+├── 07_Pointers/
+├── 08_Structures/
+├── 09_File_Handling/
+└── 10_Mini_Projects/
+```
 
-To build a strong foundation in C programming by solving problems, implementing algorithms, and creating small projects.
+---
+
+## 🎯 Learning Goals
+
+- Build a strong foundation in C programming.
+- Practice problem-solving through coding.
+- Learn data structures and algorithms.
+- Maintain a well-organized programming portfolio.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language:** C
+- **Compiler:** GCC / MinGW
+- **IDE/Editor:** Visual Studio Code
+- **Version Control:** Git & GitHub
+
+---
+
+## 📈 Progress
+
+| Topic | Status |
+|--------|--------|
+| Basics | ✅ |
+| Conditionals | ✅ |
+| Loops | ✅ |
+| Functions | ✅ |
+| Arrays | ✅ |
+| Strings | ✅ |
+| Pointers | ⏳ |
+| Structures | ⏳ |
+| File Handling | ⏳ |
+| Mini Projects | 🚧 |
+
+---
+
+## 🤝 Feedback
+
+I'm learning C step by step. If you have suggestions for improving my code or repository structure, feel free to open an issue or share your feedback.
+
+---
+
+## 👨‍💻 Author
+
+**Sujal Bhattar**
+
+⭐ If you find this repository helpful, feel free to star it!
